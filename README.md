@@ -1,7 +1,7 @@
 # Ibrahim-Kamara-Portfolio
 This portfolio is to showcase my individual work. Most of these projects are done independently and for fun! Enjoy and let me know what you think.
 
-# Covid19-vs-Mother-Nature
+# [Covid19-vs-Mother-Nature](https://github.com/ibkamara0/Covid19-vs-Mother-Nature)
 As crazy as it may sound, my passion for data science is what motivated me to want to complete this project. I began this project hoping to visualize some positive data, in the light of our current situation. Lastly, I used this as an opportunity to enhance my knowledge in data science and potentially get some professional feedback.
 ## Overview
 - Web scraped, read, parsed and cleaned data for easier implementation into machine learning model
@@ -11,6 +11,7 @@ As crazy as it may sound, my passion for data science is what motivated me to wa
 
 ![Visualization of Data](https://github.com/ibkamara0/Covid19-vs-Mother-Nature/blob/master/Data%20Visualization.jpg)
 
+
 # [Reddit-and-DJIA-Prediction](https://github.com/ibkamara0/Reddit-and-DJIA-Prediction)
 This project was done simply for fun to gain some additional experience in the world of machine learning and natural language processing. I used data from Kaggle on which involved the Dow Jones Industrial Averages with different news articles. The data provided displayed various headlines and labels, where "1" meant the average rose or remained the same, and "0" meant there was a decline in the average.
 
@@ -19,6 +20,7 @@ I trained this data with different algorithms then created a GUI(Graphical User 
 Below, there are is a demo and a link to the dataset. There is also a link to some YouTube videos that helped me with this project.
 
 ![Demo](https://github.com/ibkamara0/Reddit-and-DJIA-Prediction/blob/master/prediction%20application.gif)
+
 
 # [Healthcare-Facial-Recognition](https://github.com/ibkamara0/Healthcare-Facial-Recognition)
 
