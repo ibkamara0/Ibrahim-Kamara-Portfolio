@@ -9,7 +9,7 @@ As crazy as it may sound, my passion for data science is what motivated me to wa
 - Used machine learning to generate a model that displays a linear correlation between the two variables
 - Extracted meaningful information from large dataset
 
-![Visualization of Data](https://github.com/ibkamara0/Ibrahim-Kamara-Portfolio/blob/master/Data%20Visualization.jpg)
+![Visualization of Data](/Data%20Visualization.jpg)
 
 
 # [Reddit-and-DJIA-Prediction](https://github.com/ibkamara0/Reddit-and-DJIA-Prediction)
@@ -19,7 +19,7 @@ I trained this data with different algorithms then created a GUI(Graphical User 
 
 Below, there are is a demo and a link to the dataset. There is also a link to some YouTube videos that helped me with this project.
 
-![Demo](https://github.com/ibkamara0/Ibrahim-Kamara-Portfolio/blob/master/preview.JPG)
+![Demo](/preview.JPG)
 
 
 # [Healthcare-Facial-Recognition](https://github.com/ibkamara0/Healthcare-Facial-Recognition)
