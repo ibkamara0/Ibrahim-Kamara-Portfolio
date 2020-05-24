@@ -9,7 +9,7 @@ As crazy as it may sound, my passion for data science is what motivated me to wa
 - Used machine learning to generate a model that displays a linear correlation between the two variables
 - Extracted meaningful information from large dataset
 
-![Visualization of Data](https://github.com/ibkamara0/Covid19-vs-Mother-Nature/blob/master/Data%20Visualization.jpg)
+![Visualization of Data](https://github.com/ibkamara0/Ibrahim-Kamara-Portfolio/blob/master/Data%20Visualization.jpg)
 
 
 # [Reddit-and-DJIA-Prediction](https://github.com/ibkamara0/Reddit-and-DJIA-Prediction)
