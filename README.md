@@ -19,7 +19,7 @@ I trained this data with different algorithms then created a GUI(Graphical User 
 
 Below, there are is a demo and a link to the dataset. There is also a link to some YouTube videos that helped me with this project.
 
-![Demo](https://github.com/ibkamara0/Reddit-and-DJIA-Prediction/blob/master/prediction%20application.gif)
+![Demo](https://github.com/ibkamara0/Ibrahim-Kamara-Portfolio/blob/master/preview.JPG)
 
 
 # [Healthcare-Facial-Recognition](https://github.com/ibkamara0/Healthcare-Facial-Recognition)
