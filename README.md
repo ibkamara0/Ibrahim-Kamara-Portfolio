@@ -2,8 +2,8 @@
 This portfolio is to showcase my individual work. Most of these projects are done independently and for fun! Enjoy and let me know what you think.
 
 ### Contact Information
-**Email:** ibkamara1997@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/ibrahim-kamara-81b427139/
+- **Email:** ibkamara1997@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ibrahim-kamara-81b427139/
 
 # [Covid19-vs-Mother-Nature](https://github.com/ibkamara0/Covid19-vs-Mother-Nature)
 As crazy as it may sound, my passion for data science is what motivated me to want to complete this project. I began this project hoping to visualize some positive data, in the light of our current situation. Lastly, I used this as an opportunity to enhance my knowledge in data science and potentially get some professional feedback.
