@@ -23,7 +23,7 @@ I trained this data with different algorithms then created a GUI(Graphical User 
 
 Below, there are is a demo and a link to the dataset. There is also a link to some YouTube videos that helped me with this project.
 
-![Demo](/preview.JPG)
+![Demo](/prediction application.gif)
 
 
 # [Healthcare-Facial-Recognition](https://github.com/ibkamara0/Healthcare-Facial-Recognition)
