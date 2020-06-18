@@ -28,6 +28,15 @@ Now for a little background on this project. Being a recent graduate and wanted 
 
 ![income choropleth map](/IncomeMap.JPG)
 
+# [Reddit-and-DJIA-Prediction](https://github.com/ibkamara0/Reddit-and-DJIA-Prediction)
+This project was done simply for fun to gain some additional experience in the world of machine learning and natural language processing. I used data from Kaggle on which involved the Dow Jones Industrial Averages with different news articles. The data provided displayed various headlines and labels, where "1" meant the average rose or remained the same, and "0" meant there was a decline in the average.
+## Overview
+I trained this data with different algorithms then created a GUI(Graphical User Interface) that allows you to insert a headline from Reddit World News and get a prediction of whether the Dow Jones Industrial Average will rise/remain or fall. I used to algorithms to create a voting system, the more models that would choose a certain classification ("1" or "0"), the higher the confidence of the prediction. The comments in both my jupyter notebook and code explain what each piece does. Feel free to take this and apply it to your own datasets and scenarios.
+
+Below, there are is a demo and a link to the dataset. There is also a link to some YouTube videos that helped me with this project.
+
+![Demo](/prediction application.gif)
+
 # [Covid19-vs-Mother-Nature](https://github.com/ibkamara0/Covid19-vs-Mother-Nature)
 As crazy as it may sound, my passion for data science is what motivated me to want to complete this project. I began this project hoping to visualize some positive data, in the light of our current situation. Lastly, I used this as an opportunity to enhance my knowledge in data science and potentially get some professional feedback.
 ## Overview
@@ -39,14 +48,7 @@ As crazy as it may sound, my passion for data science is what motivated me to wa
 ![Visualization of Data](/Data Visualization.jpg)
 
 
-# [Reddit-and-DJIA-Prediction](https://github.com/ibkamara0/Reddit-and-DJIA-Prediction)
-This project was done simply for fun to gain some additional experience in the world of machine learning and natural language processing. I used data from Kaggle on which involved the Dow Jones Industrial Averages with different news articles. The data provided displayed various headlines and labels, where "1" meant the average rose or remained the same, and "0" meant there was a decline in the average.
-## Overview
-I trained this data with different algorithms then created a GUI(Graphical User Interface) that allows you to insert a headline from Reddit World News and get a prediction of whether the Dow Jones Industrial Average will rise/remain or fall. I used to algorithms to create a voting system, the more models that would choose a certain classification ("1" or "0"), the higher the confidence of the prediction. The comments in both my jupyter notebook and code explain what each piece does. Feel free to take this and apply it to your own datasets and scenarios.
 
-Below, there are is a demo and a link to the dataset. There is also a link to some YouTube videos that helped me with this project.
-
-![Demo](/prediction application.gif)
 
 
 
