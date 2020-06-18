@@ -5,6 +5,16 @@ This portfolio is to showcase my individual work. Most of these projects are don
 - **Email:** ibkamara1997@gmail.com
 - [**LinkedIn Profile**](https://www.linkedin.com/in/ibrahim-kamara-81b427139/)
 
+# Bachelor's Degree in Your State
+Now for a little background on this project. Being a recent graduate and wanted to show my passion and skills to employers, I got curious. I decided to apply some of my skills to a project that appealed to my peers and I. Given we all just got our bachelor's degrees and some of us our looking for employment. I wanted to know where our bachelor's degrees most affected income and unemployment rates. Below, I get to take you along the journey of how this question was answered. Enjoy.
+
+## Overview
+- In this project data will be collected from US Department of Agriculture Economic Research Service on Unemployment, Median Household Income, and Education Attainment
+- Raw data will be cleaned and manipulated for visualization and model development
+- Lastly, models and visualizations will be translated and interpreted to give data meaning in context of our research question.
+
+![income choropleth map](/IncomeMap.JPG)
+
 # [Covid19-vs-Mother-Nature](https://github.com/ibkamara0/Covid19-vs-Mother-Nature)
 As crazy as it may sound, my passion for data science is what motivated me to want to complete this project. I began this project hoping to visualize some positive data, in the light of our current situation. Lastly, I used this as an opportunity to enhance my knowledge in data science and potentially get some professional feedback.
 ## Overview
