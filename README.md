@@ -1,8 +1,8 @@
 # Ibrahim-Kamara-Portfolio
 My name is Ibrahim Kamara, former student-athlete and student-leader. This portfolio is to showcase my individual work. These projects are done independently and for fun! Enjoy and let me know what you think.
-<p align="center">
-  <img width="460" height="300" src="/VideoToGif_GIF.GIF" /> <img width="460" height="400"  src="https://github.com/ibkamara0/Ibrahim-Kamara-Portfolio/blob/master/A8B7AED3-E025-43AA-8D63-82C85446261A.JPEG" />
-</p>
+
+ ![](/A8B7AED3-E025-43AA-8D63-82C85446261A.JPEG) ![](/VideoToGif_GIF.GIF) 
+
 
 ### Contact Information
 - **Email:** ibkamara1997@gmail.com
