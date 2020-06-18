@@ -1,5 +1,5 @@
 # Ibrahim-Kamara-Portfolio
-My name is Ibrahim Kamara, former student-athlete and student-leader. This portfolio is to showcase my individual work. These projects are done independently and for fun! Enjoy and let me know what you think.
+My name is Ibrahim Kamara, former student-athlete and student-leader. This portfolio is to showcase my individual work. These projects are done independently and for my hunger and passion in world data science! Enjoy and let me know what you think.
 
  ![](/A8B7AED3-E025-43AA-8D63-82C85446261A.JPEG) ![](/VideoToGif_GIF.GIF) 
 
