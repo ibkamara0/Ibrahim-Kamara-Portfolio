@@ -8,6 +8,20 @@ My name is Ibrahim Kamara, former student-athlete and student-leader. This portf
 - **Email:** ibkamara1997@gmail.com
 - [**LinkedIn Profile**](https://www.linkedin.com/in/ibrahim-kamara-81b427139/)
 
+# Skills
+- **Technical:** Pyhton, Java, HTML/CSS/JS, R, IBM Waston Studio, AWS, Jupyter Notebook, SQL, Linux
+- **Non-Technical:** Data Mining, Machine Learning, Experimental Design and Analysis, Statistical Models
+
+# Leadership
+- Men's Basketball Captain (2017-2020)
+- Community/Resident Assistant (2019-2020)
+
+# Hobbies/Passions
+- Math
+- Basketball
+- Sudoko
+- Pugs!!!!
+
 # [Healthcare-Facial-Recognition](https://github.com/ibkamara0/Healthcare-Facial-Recognition)
 
 For this IT Capstone Project, there will be research pertaining to the ability to use facial recognition as a form of healthcare identification during the emergency department admission process. This could benefit healthcare facilities in a plethora of ways including, but not limited to, an efficient patient identification process that maintains a high standard of patient confidentiality.
