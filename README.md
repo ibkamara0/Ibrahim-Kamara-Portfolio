@@ -1,6 +1,3 @@
-# Ibrahim-Kamara-Portfolio
-
-
  ![](/images/A8B7AED3-E025-43AA-8D63-82C85446261A.JPEG) ![](/images/VideoToGif_GIF.GIF) 
 
 
