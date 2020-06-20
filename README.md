@@ -41,7 +41,7 @@
 
 ![Visualization of Data](/images/Data Visualization.jpg)
 
-### Contact Information
+# Contact Information
 - **Email:** ibkamara1997@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/ibrahim-kamara-81b427139/
 
