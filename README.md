@@ -1,9 +1,10 @@
  ![](/images/A8B7AED3-E025-43AA-8D63-82C85446261A.JPEG) ![](/images/VideoToGif_GIF.GIF) 
 
 # Core Skills
-- Programming Languages: Pyhton, Java, HTML/CSS/JS, R, SQL
-- Tools: IBM Waston Studio, AWS, Jupyter Notebook, SQL Server, MySQL Workbench Linux 
-- Data Science Methods: Data Mining, Machine Learning, Experimental Design and Analysis, Statistical Computing Models, Natural Language Processing, OpenCV, Prediction, Classification, Clustering, Pandas, Numpy
+- **Programming Languages:** Pyhton, Java, HTML/CSS/JS, R, SQL
+- **Tools:** IBM Waston Studio, AWS, Jupyter Notebook, SQL Server, MySQL Workbench Linux 
+- **Data Science Methods:** Data Mining, Machine Learning, Experimental Design and Analysis, Statistical Computing Models, Natural Language Processing, OpenCV, Prediction, Classification, Clustering, Pandas, Numpy
+
 # Leadership
 - Men's Basketball Captain (2017-2020)
 - Community/Resident Assistant (2019-2020)
