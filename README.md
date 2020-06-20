@@ -1,6 +1,6 @@
  ![](/images/A8B7AED3-E025-43AA-8D63-82C85446261A.JPEG) ![](/images/VideoToGif_GIF.GIF) 
 
-# Core Skills
+@# Core Skills
 Pyhton, Java, HTML/CSS/JS, R, IBM Waston Studio, AWS, Jupyter Notebook, SQL, Linux, Data Mining, Machine Learning, Experimental Design and Analysis, Statistical Computing Models, Natural Language Processing, OpenCV, Prediction, Classification, Clustering, SQL Server, MySQL Workbench
 
 # Leadership
@@ -47,7 +47,9 @@ Below, there are is a demo and a link to the dataset. There is also a link to so
 
 ![Visualization of Data](/images/Data Visualization.jpg)
 
-
+### Contact Information
+- **Email:** ibkamara1997@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ibrahim-kamara-81b427139/
 
 
 
