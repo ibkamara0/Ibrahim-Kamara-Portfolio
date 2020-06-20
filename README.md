@@ -2,7 +2,7 @@
 
 # Core Skills
 - **Programming Languages:** Pyhton, Java, HTML/CSS/JS, R, SQL
-- **Tools:** IBM Waston Studio, AWS, Jupyter Notebook, SQL Server, MySQL Workbench Linux 
+- **Tools:** IBM Waston Studio, AWS, Jupyter Notebook, SQL Server, MySQL Workbench, Linux 
 - **Data Science Methods:** Data Mining, Machine Learning, Experimental Design and Analysis, Statistical Computing Models, Natural Language Processing, OpenCV, Prediction, Classification, Clustering, Pandas, Numpy
 
 # Leadership
