@@ -1,10 +1,5 @@
  ![](/images/A8B7AED3-E025-43AA-8D63-82C85446261A.JPEG) ![](/images/VideoToGif_GIF.GIF) 
 
-
-### Contact Information
-- **Email:** ibkamara1997@gmail.com
-- [**LinkedIn Profile**](https://www.linkedin.com/in/ibrahim-kamara-81b427139/)
-
 # Skills
 - **Technical:** Pyhton, Java, HTML/CSS/JS, R, IBM Waston Studio, AWS, Jupyter Notebook, SQL, Linux
 - **Non-Technical:** Data Mining, Machine Learning, Experimental Design and Analysis, Statistical Models
