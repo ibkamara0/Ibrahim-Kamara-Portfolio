@@ -24,26 +24,19 @@ Pyhton, Java, HTML/CSS/JS, R, IBM Waston Studio, AWS, Jupyter Notebook, SQL, Lin
 
 ## [Bachelor's Degree in Your State](https://github.com/ibkamara0/bachelors-degree-in-your-state)
 
-**Overview** - In this project data will be collected from US Department of Agriculture Economic Research Service on Unemployment, Median Household Income, and Education Attainment
-Raw data will be cleaned and manipulated for visualization and model development
--Lastly, models and visualizations will be translated and interpreted to give data meaning in context of our research question.
+**Overview** - Visualizing states where bachelor's degrees or higher most affect income and unemployment rates in areas using Pythong, Matplotlib, Pandas, NumPy, Folium, and Geospatial Data
 
 ![income choropleth map](/images/IncomeMap.JPG)
 
 ## [Reddit-and-DJIA-Prediction](https://github.com/ibkamara0/Reddit-and-DJIA-Prediction)
 
-**Overview** - I trained this data with different algorithms then created a GUI(Graphical User Interface) that allows you to insert a headline from Reddit World News and get a prediction of whether the Dow Jones Industrial Average will rise/remain or fall. I used to algorithms to create a voting system, the more models that would choose a certain classification ("1" or "0"), the higher the confidence of the prediction. The comments in both my jupyter notebook and code explain what each piece does. Feel free to take this and apply it to your own datasets and scenarios.
-
-Below, there are is a demo and a link to the dataset. There is also a link to some YouTube videos that helped me with this project.
+**Overview** - Training and testing a models to predict the Dow Jones Industrial Average based on top Reddit News Headlines using Python, Jupyter Notebook, Machine Learning, NLTK, and Natural Language Processing
 
 ![Demo](/images/prediction application.gif)
 
 ## [Covid19-vs-Mother-Nature](https://github.com/ibkamara0/Covid19-vs-Mother-Nature)
 
-**Overview** - Web scraped, read, parsed and cleaned data for easier implementation into machine learning model
-- Created a visual representation of the relationship between increase in weather temperature and change in Covid19 confirmed cases
-- Used machine learning to generate a model that displays a linear correlation between the two variables
-- Extracted meaningful information from large dataset
+**Overview** - Mining and visualizing the correlation between the increased number of confirmed cases and average weekly weather using Python, Web Scraping, Matplotlib, Pandas, and NumPy
 
 ![Visualization of Data](/images/Data Visualization.jpg)
 
