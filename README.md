@@ -30,7 +30,7 @@
 
 ![income choropleth map](/images/IncomeMap.JPG)
 
-## [Reddit-and-DJIA-Prediction](https://github.com/ibkamara0/Reddit-and-DJIA-Prediction)
+## [Reddit-and-DJIA-Prediction](https://github.com/ibkamara0/Reddit-and-DJIA-Prediction/news_classifier.ipynb)
 
 **Overview** - Training and testing a models to predict the Dow Jones Industrial Average based on top Reddit News Headlines using Python, Jupyter Notebook, Machine Learning, NLTK, and Natural Language Processing
 
